@@ -1,4 +1,4 @@
-# Devcontainer Boilerplate for Python, Poetry, and Langchain
+# Devcontainer Boilerplate for Jupyter, Poetry, and Langchain
 
 This repository serves as a boilerplate to illustrate how to use Langchain with Poetry for dependency management in a containerized development environment. It's designed to be run in Visual Studio Code (VSCode) and GitHub Codespaces.
 
