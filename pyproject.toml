@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-aiohttp = "^3.9.4"
+aiohttp = "^3.10.2"
 langchain = "^0.1.11"
 langchain-cli = "^0.0.17"
 jupyter = "^1.0.0"
